@@ -9,7 +9,6 @@
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,&theme=dark "/>
-  <img src="https://skillicons.dev/icons?i=git,github,&theme=dark"/>
 </a>
 </div>
 
