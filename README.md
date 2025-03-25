@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 </br>
 
-![syednayalish's Stats](https://github-readme-stats.vercel.app/api?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&count_private=false) ![syednayalish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syednayalish&theme=merko&hide_border=false)
-![Ssyednayalish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![syednayalish's Stats](https://github-readme-stats.vercel.app/api?username=syednayalish&theme=merko&show_icons=true&hide_border=false&count_private=false) ![syednayalish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syednayalish&theme=merko&hide_border=false)
+![syednayalish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syednayalish&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <hr/>
 
 ## 🏆 GitHub Trophies
